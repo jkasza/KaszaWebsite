@@ -6,12 +6,18 @@ comments: false
 date: 2017-07-19
 
 ---
-1. **J Kasza**, R Wolfe, T Schuster. (2017) [Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.](https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyx023/3061539/Assessing-the-impact-of-unmeasured-confounding-for?redirectedFrom=fulltext)*International Journal of Epidemiology*, Accepted 26 January 2017. 
+
+1. **J Kasza**, K Hemming, R Hooper, JNS Matthews, A Forbes. Impact of non-uniform correlation on sample size and power in multiple period cluster randomised trials. *Statistical Methods in Medical Research*. Accepted 25 August 2017.
+        <ul>
+            <li>[Shiny app](https://monash-biostat.shinyapps.io/NonUniformCorrelation)</li>
+            <li>[Code](https://github.com/jkasza/NonUniformCorrelation)</li>
+        </ul>
+1. **J Kasza**, R Wolfe, T Schuster. [Assessing the impact of unmeasured confounding for binary outcomes using confounding functions.](https://academic.oup.com/ije/article-abstract/doi/10.1093/ije/dyx023/3061539/Assessing-the-impact-of-unmeasured-confounding-for?redirectedFrom=fulltext) *International Journal of Epidemiology*. Accepted 26 January 2017. 
 1. C Oates\*, **J Kasza**\*, JA Simpson, A Forbes. (\*Joint first authors) [Repair of partly misspecified causal diagrams.](http://journals.lww.com/epidem/Abstract/2017/07000/Repair_of_Partly_Misspecified_Causal_Diagrams.12.aspx) *Epidemiology*.  28(4):548–552.
         <ul>
             <li>[Video](https://www.youtube.com/watch?v=1bRrDGCeTAI)
         </ul>
-1. M McGuinness, A Karahalios, **J Kasza**, R Guymer, RP Finger, JA Simpson. [Survival bias when assessing risk factors for age-related macular degeneration: a tutorial with application to the exposure of smoking.]() *Ophthalmic Epidemiology*, (2017) 24(4):229-238.  
+1. M McGuinness, A Karahalios, **J Kasza**, R Guymer, RP Finger, JA Simpson. [Survival bias when assessing risk factors for age-related macular degeneration: a tutorial with application to the exposure of smoking.](http://www.tandfonline.com/doi/abs/10.1080/09286586.2016.1276934?journalCode=iope20) *Ophthalmic Epidemiology*, (2017) 24(4):229-238.  
 1.  C Oates, **J Kasza**, S Mukherjee. Discussion of ''Causal inference by using invariant prediction: identification and confidence intervals''. *Journal of the Royal Statistical Society, Series B*, (2016) 78(5):1003.  
 1.  **J Kasza**, KR  Polkinghorne, SP McDonald, MR Marshall, R Wolfe. Clustering and residual confounding in the application of marginal structural models to registry data: dialysis, vascular access, and mortality.  *American Journal of Epidemiology*, (2015) 182(6):535-543. 
           <ul>
