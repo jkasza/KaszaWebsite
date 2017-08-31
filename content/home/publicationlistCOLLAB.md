@@ -5,13 +5,6 @@ tags: [about]
 comments: false
 date: 2017-07-18
 ---
-<h2>To Appear</h2>
-
-
-1.  B Lawford, K Bennell, **J Kasza**, R Hinman. Physical therapists' perceptions of telephone- and internet video-mediated service models for exercise management of people with osteoarthritis. *Arthritis Care \& Research*. Accepted  12 April 2017. 
-1. K Bennell, L Spiers, A Takla, J O’Donnell, **J Kasza**, DJ Hunter, RS Hinman. Efficacy of adding a physiotherapy rehabilitation program to arthroscopic management of femoroacetabular impingement syndrome: a randomised controlled trial (FAIR). *BMJ Open*. Accepted 31 March 2017. 
-1.  SE Ivory, KR Polkinghorne, Y Khandakar, **J Kasza**, S Zoungas, R Steenkamp, P Roderick, R Wolfe. Predicting six-month mortality risk of patients commencing dialysis treatment for end-stage kidney disease.  *Nephrology Dialysis Transplantation*, Accepted 26 September 2016. 
-
 
 <h2>2017</h2>
 
