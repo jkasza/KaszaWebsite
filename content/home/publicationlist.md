@@ -6,7 +6,18 @@ comments: false
 date: 2017-07-19
 
 ---
-
+1. **J Kasza**, A Forbes. Inference for the treatment effect in multiple-period cluster randomised trials when random effect correlation structure is misspecified. *Statistical Methods in Medical Research*. Accepted September 2018.
+        <ul>
+            <li>[Shiny app](https://monash-biostat.shinyapps.io/MisspecCorrStruct/)</li>
+        </ul>
+1. **J Kasza**, A Forbes. Information content of cluster-period cells in stepped wedge trials. *Biometrics*. Accepted August 2018.
+        <ul>
+            <li>[Shiny app](https://monash-biostat.shinyapps.io/informationcontent/)</li>
+        </ul>
+1. R Herbert, **J Kasza**, K Bo. Analysis of randomised trials with long-term follow up. *BMC Medical Research Methodology*. 2018; 18(48)
+        <ul>
+            <li>[Open access paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-018-0499-5)</li>
+        </ul>
 1. **J Kasza**, K Hemming, R Hooper, JNS Matthews, A Forbes. Impact of non-uniform correlation on sample size and power in multiple period cluster randomised trials. *Statistical Methods in Medical Research*. Accepted 25 August 2017.
         <ul>
             <li>[Shiny app](https://monash-biostat.shinyapps.io/NonUniformCorrelation)</li>

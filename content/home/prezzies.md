@@ -7,6 +7,10 @@ date: 2017-07-17
 
 ---
 
+1. Society for Clinical Trials, Portland USA, May 2018.
+        <ul>
+            <li>[Misspecifying within-cluster correlation structure in stepped wedge trials](\pdf\SCT2018_Kasza_V2.pdf).</li>
+        </ul>
 1. Society for Clinical Trials \& 4th International Clinical Trials Methodology Conference, Liverpool UK, May 2017.
         <ul>
             <li>[Information content of cluster-periods in stepped wedge trials](/pdf/Kasza_SCT2017.pdf).</li>
