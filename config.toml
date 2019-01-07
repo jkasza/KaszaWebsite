@@ -1,7 +1,7 @@
  baseurl = "https://jkasza.netlify.com/"
 # End your URL with a `/` trailing slash.
 title = "Jessica Kasza"
-copyright = "&copy; 2017 J Kasza"
+copyright = "&copy; 2019 J Kasza"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -106,6 +106,32 @@ defaultContentLanguageInSubdir = false
   #  'Book chapter'  # 6
   ]
 
+# Configuration of project pages.
+  [params.projects]
+    # List publications and talks related to the project?
+    list_children = true
+    
+    # Post list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    post_format = 2
+    
+     # Publication list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = APA
+    #   3 = MLA
+    #   4 = Stream
+    publication_format = 4
+
+    # Talk list format.
+    #   0 = Simple
+    #   1 = Detailed
+    #   2 = Stream
+    talk_format = 2
+
+
   # Social/Academic Networking
   #
   # Icon pack "fa" includes the following social network icons:
@@ -144,6 +170,7 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/jkasza"
 
+ 
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
